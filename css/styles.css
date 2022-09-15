@@ -1,0 +1,134 @@
+body{
+    background-color:#233554;
+    color:#ccd6f6;
+}
+
+h1{
+    font-size: 2.5rem;
+}
+
+nav{
+    margin-left:-30px;
+}
+nav ul li{
+    list-style: none;
+    display:inline-block;
+    font-size:1re;
+    color:#57cbff;
+    font-size: 1.7rem;
+    margin-left:10px;
+}
+
+.info{
+    background-color: #FBFCFC;
+    color:#233554;
+    padding:10px;
+    height: auto;
+    border-radius: 0 5px 5px 5px;
+    text-align: justify;
+    font-size:1rem;
+}
+
+
+.tab-info{
+    position:relative;
+    top:0px;
+    color:#233554;
+    width: 150px;
+    font-weight: 600;
+    border-radius: 5px 5px 0 0;
+    padding-left: 5px;
+    background-color: #FBFCFC;
+}
+
+.lenguajes, .backend, .frontend, .maquetacion, ul li{
+    list-style:none;
+}
+
+.tec-icon li{
+    display: inline-block;
+}
+.tec-icon li img{
+    width: 25px;
+}
+
+.row{
+    display:flex;
+}
+
+.col{
+    margin-top:5px;
+}
+
+.card{
+    height: auto;
+}
+
+.lenguajes img{
+    border: 3px solid white;
+    border-radius: 90%;
+    width: 80px;
+    height: 80px;
+    vertical-align: middle;
+    background-color: white;
+    margin-left: 5px;
+}
+
+.backends img{
+    border: 3px solid white;
+    border-radius: 90%;
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    margin-left: 5px;
+}
+
+.frontend img{
+    border: 3px solid white;
+    border-radius: 90%;
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    margin-left: 5px;
+}
+
+.maquetacion img{
+    border: 3px solid white;
+    border-radius: 90%;
+    width: 80px;
+    height: 80px;
+    background-color: white;
+}
+
+.menu{
+    border-bottom: 2px solid #222f42;
+    
+    
+}
+
+.cert-linkedin{
+    columns:4;
+    margin-top: 10px;
+}
+
+.cert-linkedin img{
+    width: 100%;
+}
+
+.cert-educacionit{
+    columns:4;
+    margin-top: 10px;
+}
+
+.cert-educacionit img{
+    width: 100%;
+}
+
+.cert-alura{
+    columns:4;
+    margin-top: 10px;
+}
+
+.cert-alura img{
+    width: 100%;
+}
