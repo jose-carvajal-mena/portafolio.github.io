@@ -112,6 +112,15 @@ nav ul li{
     margin-left: 5px;
 }
 
+.metodologia img{
+    border: 3px solid white;
+    border-radius: 90%;
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    margin-left: 5px;
+}
+
 .menu{
     border-bottom: 2px solid #222f42; 
 }
