@@ -150,29 +150,3 @@ nav ul li{
     height: 100px;
 }
 
-.cert-linkedin{
-    columns:4;
-    margin-top: 10px;
-}
-
-.cert-linkedin img{
-    width: 100%;
-}
-
-.cert-educacionit{
-    columns:4;
-    margin-top: 10px;
-}
-
-.cert-educacionit img{
-    width: 100%;
-}
-
-.cert-alura{
-    columns:4;
-    margin-top: 10px;
-}
-
-.cert-alura img{
-    width: 100%;
-}
